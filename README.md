@@ -1,0 +1,2 @@
+# Neural-network-Forest-fires-problem
+PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
